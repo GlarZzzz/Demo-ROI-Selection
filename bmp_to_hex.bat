@@ -1,1 +1,0 @@
-python pre_Sobel.py input_image_Sobel.bmp input_image_Sobel.hex 640 480
