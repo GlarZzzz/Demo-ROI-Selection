@@ -1,0 +1,1 @@
+python pre_ROI.py input_image_ROI.bmp input_image_ROI.hex 640 480
