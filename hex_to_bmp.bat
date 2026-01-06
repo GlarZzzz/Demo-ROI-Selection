@@ -1,1 +1,0 @@
-python post_Sobel.py output_image_Sobel.hex output_image_Sobel.bmp 640 480
